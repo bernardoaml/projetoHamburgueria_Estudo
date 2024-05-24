@@ -1,1 +1,1 @@
-# react-entrega-s3-template-hamburgueria
+# projeto desenvolvido durante curso de formação como full-stack dev.
